@@ -1,0 +1,33 @@
+.navigation{
+    background-color: rgb(84, 7, 207);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+
+.navHeading{
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.head-img{
+    width: 150px;
+    height: 50px;
+}
+
+.list{
+    list-style-type: none;
+    text-align: right;
+    
+}
+.link-color{
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+    padding : 1rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.list-item{
+    display: inline;
+    padding: 0rem 0.5rem;
+}

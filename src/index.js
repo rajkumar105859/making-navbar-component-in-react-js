@@ -4,10 +4,10 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+ReactDOM.render(  // kya dikhana hai , kha dikhana hai , callback function
+  <React.Fragment>
+    <App/>
+  </React.Fragment>,
   document.getElementById('root')
 );
 
